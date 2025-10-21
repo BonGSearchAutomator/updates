@@ -98,5 +98,66 @@
     "como economizar em hospedagem (hostel, Airbnb)",
     "o que fazer em Bonito, MS: flutuações e grutas",
     "melhores destinos para ecoturismo no Brasil"
-  ]
+  ],
+  "education": [
+        "o que é fotossíntese",
+        "história da Revolução Industrial",
+        "quem foi Albert Einstein",
+        "teorema de Pitágoras explicação",
+        "capitais do Brasil lista",
+        "como funciona o sistema solar",
+        "principais filósofos gregos",
+        "diferença entre átomo e molécula"
+    ],
+    "health": [
+        "benefícios da caminhada",
+        "o que é ansiedade",
+        "como melhorar o sono",
+        "alimentos ricos em vitamina C",
+        "dicas para parar de fumar",
+        "importância de beber água",
+        "exercícios para fazer em casa",
+        "o que é colesterol HDL e LDL"
+    ],
+    "culinary": [
+        "receita de bolo de chocolate",
+        "como fazer arroz soltinho",
+        "temperos para frango assado",
+        "tipos de macarrão italiano",
+        "receita de pão de queijo mineiro",
+        "como fazer brigadeiro gourmet",
+        "diferença entre azeite extra virgem e virgem",
+        "cortes de carne bovina"
+    ],
+    "entertainment": [
+        "filmes em cartaz 2025",
+        "melhores séries da Netflix",
+        "quem ganhou o Oscar de melhor ator",
+        "bandas de rock famosas",
+        "lançamentos de músicas pop",
+        "atores de Hollywood mais bem pagos",
+        "história do cinema brasileiro",
+        "próximos shows internacionais no Brasil"
+    ],
+    "sports": [
+        "tabela do campeonato brasileiro",
+        "quem é o maior jogador de basquete",
+        "regras do vôlei de praia",
+        "história das Olimpíadas",
+        "próxima Copa do Mundo onde será",
+        "resultados da Fórmula 1 hoje",
+        "como funciona o VAR no futebol",
+        "maiores tenistas da história"
+    ],
+    "science": [
+        "o que é a teoria da relatividade",
+        "como se forma um buraco negro",
+        "DNA e RNA diferenças",
+        "últimas descobertas da NASA",
+        "o que é inteligência artificial",
+        "efeito estufa consequências",
+        "prêmio Nobel de física",
+        "vulcanismo como ocorre"
+    ]
+
 }
